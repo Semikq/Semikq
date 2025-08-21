@@ -67,6 +67,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
 
 ## My GitHub Stats
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semikq&show_icons=true&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Semikq&show_icons=true&theme=dark" height="215"/>
 
