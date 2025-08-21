@@ -19,7 +19,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
 
 
 ## My Skill Set
-<table width="200%">
+<table>
   <tr>
     <td valign="top" width="33%">
       
