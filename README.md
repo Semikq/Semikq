@@ -3,7 +3,7 @@
 </div>  
 
 <div align="center">Hi there! 👋 I'm Yaroslav Plaksiuk 👨‍💻</div>
-==========================================================================================================================================
+
 ## Web Developer and Designer
 
 * 🌍  I'm based in Poltava, Ukraine
