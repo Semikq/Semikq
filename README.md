@@ -21,10 +21,9 @@ I’m constantly improving my skills by self-learning, exploring new technologie
 ## My Skill Set
 <table width="100%">
   <tr>
-    <td width="33%">
+    <td valign="top" width="33%">
       
   ### Frontend
-  
   <div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -36,10 +35,9 @@ I’m constantly improving my skills by self-learning, exploring new technologie
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
   </div>
     </td>
-    <td width="33%">
+    <td valign="top" width="33%">
       
   ### Backend
-  
   <div align="center">  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -50,7 +48,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
   </div>
     </td>
-    <td width="33%">
+    <td valign="top" width="33%">
       
   ### Tools & Design
   <div align="center">  
