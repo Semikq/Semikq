@@ -2,7 +2,7 @@
 <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" align="center" style="width: 100%" />
 </div>  
 
-<div align="center">Hi there! 👋 I'm Yaroslav Plaksiuk 👨‍💻</div>
+<h1 align="center">Hi there! 👋 I'm Yaroslav Plaksiuk 👨‍💻</h1>
 
 ## Web Developer and Designer
 
@@ -19,7 +19,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
 
 
 ## My Skill Set
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 ### Frontend
 <div align="center">  
