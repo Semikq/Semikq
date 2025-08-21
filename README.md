@@ -20,7 +20,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
 
 ## My Skill Set
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; text-align: center; border: solid 1px gray">
+  <div style="flex: 1; min-width: 250px; text-align: center; border: solid 1px white">
     <h3>Frontend</h3>
     <div>
       <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
