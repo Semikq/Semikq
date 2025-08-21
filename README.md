@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in Poltava, Ukraine
 * ✉️  You can contact me at [usern1861@gmail.com](mailto:usern1861@gmail.com)
-* 🎓 In 2024, I successfully completed a **Front-End Development course**. You can view my certificate [here](https://github.com/username/repository/blob/main/certificates/Certificate_Front-end_Plaksiuk_Yaroslav.pdf).
+* 🎓 In 2024, I successfully completed a **Front-End Development course**. You can view my certificate [here](docs/Certificate_Front-end_Plaksiuk_Yaroslav.pdf).
 
 Hi! I'm a 20-year-old Front-End Developer with 1.5 years of experience and a Back-End Developer with 0.5 years of experience. I also have a background in UI/UX design and enjoy creating intuitive website layouts using Figma.
 
