@@ -68,6 +68,6 @@ I’m constantly improving my skills by self-learning, exploring new technologie
 ## My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Semikq&show_icons=true&theme=dark" height="100%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Semikq&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" height="100px"/>
 </div>
