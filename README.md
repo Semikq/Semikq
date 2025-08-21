@@ -22,6 +22,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
 <table width="100%">
   <tr>
     <td width="33%">
+      
   ### Frontend
   
   <div align="center">  
@@ -36,6 +37,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
   </div>
     </td>
     <td width="33%">
+      
   ### Backend
   
   <div align="center">  
@@ -49,8 +51,8 @@ I’m constantly improving my skills by self-learning, exploring new technologie
   </div>
     </td>
     <td width="33%">
+      
   ### Tools & Design
-  
   <div align="center">  
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
