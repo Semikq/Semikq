@@ -67,7 +67,7 @@ I’m constantly improving my skills by self-learning, exploring new technologie
   <a href="https://github.com/Semikq/Umami-House" align="left">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Semikq&repo=Umami-House&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en"/>
   </a>
-</div><br /><br /><br /><br /><br /><br /><br />
+</div>
 
 ## My GitHub Stats
 
